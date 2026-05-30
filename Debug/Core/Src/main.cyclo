@@ -1,0 +1,15 @@
+../Core/Src/main.c:92:6:setMotorRPM	5
+../Core/Src/main.c:116:6:PID_Init	1
+../Core/Src/main.c:128:7:PID_Compute	5
+../Core/Src/main.c:153:7:Encoder_ReadRPM	1
+../Core/Src/main.c:164:13:UART_ParseLine	2
+../Core/Src/main.c:207:6:HAL_UART_RxCpltCallback	6
+../Core/Src/main.c:240:5:main	1
+../Core/Src/main.c:310:6:SystemClock_Config	3
+../Core/Src/main.c:349:13:MX_TIM2_Init	7
+../Core/Src/main.c:412:13:MX_TIM3_Init	3
+../Core/Src/main.c:461:13:MX_TIM4_Init	4
+../Core/Src/main.c:507:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:541:13:MX_GPIO_Init	1
+../Core/Src/main.c:569:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:605:6:Error_Handler	1
